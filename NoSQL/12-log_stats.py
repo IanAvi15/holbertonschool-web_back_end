@@ -21,3 +21,4 @@ if __name__ == "__main__":
         {"method": "GET", "path": "/status"}
     )
     print("{} status check".format(status_check))
+    
